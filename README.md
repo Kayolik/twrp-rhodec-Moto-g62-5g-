@@ -2,8 +2,6 @@
 
 Unofficial TWRP build for the **Motorola G62 5G (`rhodec`)**.
 
-This was built from source using the TeamWin device tree `android_device_motorola_rhodep`.
-
 ## Status
 
 The build was successfully compiled and tested on a Motorola G62 5G.
